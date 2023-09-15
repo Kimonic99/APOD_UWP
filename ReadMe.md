@@ -1,6 +1,6 @@
 # Astronomy Picture of the Day (APOD) UWP Application
 
-![APOD UWP App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## Table of Contents
 - [Overview](#overview)
