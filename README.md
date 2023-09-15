@@ -1,6 +1,6 @@
 # Astronomy Picture of the Day (APOD) UWP Application
 
-![App Screenshot](screenshot.png)
+![App Screenshot](APOD.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -78,6 +78,8 @@ Follow these steps to effectively use the APOD UWP application:
 ### Select a Date
 
 - Use the calendar to choose a specific date for which you want to view the Astronomy Picture of the Day.
+
+  ![App Screenshot](APOD1.png)
 
 ### Limit Date Range (Optional)
 
